@@ -1,0 +1,4 @@
+flask
+flask_cors
+numpy
+responses==0.5.1
